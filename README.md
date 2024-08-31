@@ -6,7 +6,7 @@ Este arquivo serve como um diário de trabalho para o projeto. Abaixo está uma 
 
 ## Registro de Atividades
 
-| Data       | Descrição do Trabalho                                                                                 | Linguagens e Ferramentas             | Dificuldades                                           | Nome do Deploy |
+| Data       | Descrição do Trabalho                                                                                 | Linguagens e Ferramentas             | Dificuldades                                           | Versão de Dados |
 |------------|-------------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------------------------------|----------------|
 | 2024-08-31 | Configuração do container Docker para o MySQL e ajustes no `docker-compose.yml`. Reinício do container para aplicar configurações. | Docker, MySQL                         | Problemas com a configuração de porta e permissões no MySQL | v1.0.0         |
 | 2024-08-31 | Concessão de permissões ao usuário MySQL. Ajustes na configuração e reinício do container. | MySQL                                 | Erro ao criar usuário com GRANT e dificuldades em permissões | v0.9.0         |
