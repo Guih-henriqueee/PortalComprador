@@ -8,6 +8,7 @@ Este arquivo serve como um diário de trabalho para o projeto. Abaixo está uma 
 
 | Data       | Descrição do Trabalho                                                                                 | Linguagens e Ferramentas             | Dificuldades                                           | Versão de Dados |
 |------------|-------------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------------------------------|----------------|
+|2024-09-01  | Configuração de rotas para cadastro de usuário e atualilzação de dados. Também feito o tratamento da tabela base no banco de dados para adequação do schema. | | v1.0.1|
 | 2024-08-31 | Configuração do container Docker para o MySQL e ajustes no `docker-compose.yml`. Reinício do container para aplicar configurações. | Docker, MySQL                         | Problemas com a configuração de porta e permissões no MySQL | v1.0.0         |
 | 2024-08-31 | Concessão de permissões ao usuário MySQL. Ajustes na configuração e reinício do container. | MySQL                                 | Erro ao criar usuário com GRANT e dificuldades em permissões | v0.9.0         |
 | 2024-08-31 | Resolução de problemas com a conexão do MySQL. Verificação de logs e configuração de acesso. | MySQL, Docker                         | Problemas com acesso e configuração do MySQL          | v0.8.0         |
